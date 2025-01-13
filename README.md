@@ -3,8 +3,6 @@
 This project implements and tests two sorting algorithms: **Merge Sort** and **Quick Sort**.
 
 ## Directory Structure
-
-project_name/
 ```
 │
 ├── src/ # Source code directory
