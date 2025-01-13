@@ -5,6 +5,7 @@ This project implements and tests two sorting algorithms: **Merge Sort** and **Q
 ## Directory Structure
 
 project_name/
+```
 │
 ├── src/ # Source code directory
 │ ├── **init**.py
@@ -24,6 +25,7 @@ project_name/
 ├── requirements.txt # Dependencies
 ├── README.md # Project overview
 └── setup.py # For packaging and installation
+```
 
 ## Run Tests
 
