@@ -6,23 +6,21 @@ This project implements and tests two sorting algorithms: **Merge Sort** and **Q
 ```
 │
 ├── src/ # Source code directory
-│ ├── **init**.py
+│ ├── init.py
 │ ├── algorithms/
 │ │ ├── **init**.py
 │ │ ├── merge_sort.py
 │ │ └── quick_sort.py
 │ ├── tests/
-│ │ ├── **init**.py
+│ │ ├── init.py
 │ │ ├── test_merge_sort.py
 │ │ └── test_quick_sort.py
 │ └── utils/
-│ ├── **init**.py
+│ ├── init.py
 │ └── test_helpers.py
 │
-├── .gitignore # Git ignore file for version control
-├── requirements.txt # Dependencies
-├── README.md # Project overview
-└── setup.py # For packaging and installation
+├── .gitignore 
+├── README.md 
 ```
 
 ## Run Tests
